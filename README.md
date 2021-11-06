@@ -2,7 +2,7 @@
 Major work project for Intro to Computer Programming
 
 **Learning Outcomes:**
-- Varibales and Conditions
+- Variables and Conditions
 - Loops (loops & nested loops)
 - Functions
 - Scope
