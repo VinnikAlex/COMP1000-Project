@@ -11,4 +11,4 @@ Major work project for Intro to Computer Programming
 - Refactoring
 
 **Software Used:**
-- Processing5 (based off Java)
+- Processing5
